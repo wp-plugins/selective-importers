@@ -5,7 +5,7 @@ Requires at least: 3.3
 Tested up to: 3.4
 Stable tag: 1.0
 
-Importers that put the incoming content into a queue instead of importing it immediately. From the Pending Imports screen, you can select which posts to import.
+Importers that put the incoming content into a queue, where you can select which posts to import.
 
 == Description ==
 
