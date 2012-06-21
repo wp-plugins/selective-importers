@@ -11,7 +11,7 @@ Importers that put the incoming content into a queue, where you can select which
 
 Allows you to import only selected content from WordPress, Blogger, or Tumblr sites. From the Pending Imports queue, you can select which posts to import, and which content type they should become (posts, pages, or any custom post type).
 
-Sponsored by <a href="http://pressbooks.com">PressBooks</a>.
+Sponsored by <a href="http://pressbooks.com/about/">PressBooks</a>.
 
 == Installation ==
 
